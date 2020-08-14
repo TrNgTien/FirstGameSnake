@@ -100,6 +100,8 @@ int main()
 			{
 				check=2;
 			}
+			else if(kitu==' '||kitu=='p')
+			system("pause");
 		}
 		//========= thuc hien di chuyen
 		if (check == 0)
